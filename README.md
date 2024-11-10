@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://twitter.com/jeankbraham" target="blank"><img src="https://img.shields.io/twitter/follow/jeankbraham?logo=twitter&style=for-the-badge" alt="jeankbraham" /></a> </p>
 
-- 🔭 I’m currently working on [something](youtube.com)
+- 🔭 I’m currently working on upgrading my web development skills.
 
-- 🌱 I’m currently learning **about AI in general!**
+- 🌱 I’m currently learning **about web development in general!**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jeankbro?tab=repositories](https://github.com/Jeankbro?tab=repositories)
 
