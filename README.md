@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Juan Camilo García Braham</h1>
+<h1 align="center">Hi 👋, I'm Juan Camilo</h1>
 <h3 align="center">A learning and technology enthusiast with a special passion for artificial intelligence, robots, and space exploration!</h3>
 <img align="right" src="https://anubudh.com/wp-content/uploads/2021/10/60586-developer-isometric-people-working-with-technology.gif" alt="coding" width="400">
 
